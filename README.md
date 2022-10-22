@@ -1,6 +1,6 @@
 # CarryCapacity
 
-.. is a [*Vintage Story*][VS] mod which allows picking up blocks, especially containers along with their contents, to carry them in your hands and on your back. Inspired by my Minecraft mod [*Wearable Backpacks*][WBs] as well as *Charset*, *CarryOn* and similar.
+.. is a [*Vintage Story*][VS] mod which allows picking up blocks, especially containers along with their contents, to carry them in your hands and on your back. Inspired by copygirl's Minecraft mod [*Wearable Backpacks*][WBs] as well as *Charset*, *CarryOn* and similar.
 
 ![Screenshot](docs/screenshot.jpg)
 
@@ -13,7 +13,8 @@ Available right here through [GitHub Releases][DL].
 
 To install, start the game and go to the *Mod Manager* in the main menu. There you can find a button labeled *Open Mod Folder* that will open said folder in your file explorer. Simply copy the `.zip` file you downloaded into here **without extracting it**.
 
-[DL]: https://github.com/copygirl/CarryCapacity/releases
+[DL]: https://github.com/NerdScurvy/CarryCapacity/releases
+
 
 ## Usage
 
