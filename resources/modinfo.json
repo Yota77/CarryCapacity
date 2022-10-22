@@ -1,14 +1,14 @@
 {
 	"type": "code",
 	"name": "CarryCapacity",
-	"modid": "carrycapacity",
-	"version": "0.6.5",
+	"modid": "4405",
+	"version": "0.6.6",
 
 	"description": "Adds the capability to carry various things",
-	"website": "https://github.com/copygirl/CarryCapacity",
-	"authors": [ "copygirl" ],
+	"website": "https://github.com/NerdScurvy/CarryCapacity",
+	"authors": [ "copygirl","NerdScurvy" ],
 
 	"dependencies": {
-		"game": "1.16.0"
+		"game": "1.17.0"
 	}
 }
